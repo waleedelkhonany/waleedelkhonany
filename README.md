@@ -26,10 +26,10 @@ Most of my work is on private client systems, so the code isn't public. In short
 | System | Type | What I did |
 |---|---|---|
 | CareConnect KSA | Dialysis center platform | E2E suites on staging and client instances, data-driven scenarios |
-| CareConnect Dialysis Billing | Billing & ZATCA e-invoicing | Dashboard and 31 manual-invoice cases, VAT and validation rules |
+| CareConnect Dialysis Billing | Billing & ZATCA e-invoicing | Dashboard and invoice-creation tests, VAT and validation rules |
 | CareConnect ↔ Billing (Demas) | Cross-system integration | Data passing between clinical and billing systems, single sign-on |
-| CareConnect Home (HHD) | Home healthcare | Visit-based E2E scenarios, sign-in behind reCAPTCHA |
-| CareConnect HR | HR for healthcare providers | Sign-in cases and employee creation with Arabic/English data |
+| CareConnect Home (HHD) | Home healthcare | Visit-based E2E scenarios with reusable sessions |
+| CareConnect HR | HR for healthcare providers | Sign-in scenarios and employee creation with Arabic/English data |
 | Zmorda Clinic Suite | Clinic management (15 modules) | Planned and built the E2E suite with role-based tests |
 | MegaSun | Loyalty mobile app + control panel | iOS/Android app and admin panel testing |
 | SupplyHub | Procurement platform | Supplier-to-purchase-order workflow testing |
